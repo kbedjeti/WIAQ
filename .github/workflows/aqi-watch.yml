@@ -2,9 +2,9 @@ name: WI air quality forecast watcher
 
 on:
   schedule:
-    # Hourly at :07, 11:00-23:00 UTC = roughly 6am-6pm Central during CDT.
-    # (GitHub cron is UTC; in winter this shifts an hour. Adjust if you care.)
-    - cron: "7 11-23 * * *"
+    # Hourly at :07, 6am-11pm Central (CDT = UTC-5, so UTC hours 11-23 and 0-4).
+    # In winter (CST = UTC-6) this shifts an hour later; adjust if you care.
+    - cron: "7 0-4,11-23 * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
@@ -22,10 +22,14 @@ jobs:
 
       - uses: r-lib/actions/setup-r@v2
         with:
-          use-public-rspm: true   # binary packages -> installs in seconds
+          use-public-rspm: true
 
-      - name: Install R packages
-        run: Rscript -e 'install.packages(c("httr2", "rvest", "blastula"))'
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::httr2
+            any::rvest
+            any::blastula
 
       - name: Check forecast and email if changed
         env:
@@ -47,4 +51,3 @@ jobs:
           else
             echo "No state file this run (script skipped); nothing to commit."
           fi
-
