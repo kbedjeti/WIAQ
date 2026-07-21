@@ -35,8 +35,7 @@ last_forecast.txt             # last-seen forecast text (created by the workflow
 
 ## Notes
 
-- The schedule runs hourly ~6am-6pm Central. GitHub's cron uses UTC and
-  scheduled runs are often delayed by a few minutes to an hour at busy times.
+- The schedule attempts a run every 15 minutes. This is overscheduled due to frequent drops from load.
 - The script exits quietly on fetch hiccups but fails loudly (red X + GitHub
   notification email) if the SMTP send fails, so you'll notice broken creds.
 - GitHub pauses schedules in repos with no activity for ~60 days; the state
