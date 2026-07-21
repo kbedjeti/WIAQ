@@ -1,23 +1,13 @@
-Updated Monday, July 20 - 9:30 a.m.
-Monday's Forecast (July 20)
-
-A statewide wildfire smoke PM2.5 Air Quality Advisory is in effect until noon today.
-
-WE MAY EXTEND THIS ADVISORY FOR PORTIONS OF EASTERN WI THROUGH 6 P.M. THIS EVENING.
-
-WHAT...The PM2.5 AQI is expected to reach the Unhealthy for Sensitive Groups (Orange) to Unhealthy (Red) level.
-
-WHERE...Statewide.
-
-WHEN...Until noon Monday.
-
-As of 7 a.m. Monday morning, NowCast PM2.5 AQI (1-hour average) remains in the Unhealthy for Sensitive Groups (Orange) to Unhealthy (Red) range statewide, with the highest smoke concentrations across north-central Wisconsin. A large low pressure system will be moving through Ontario, leading to breezy SW winds statewide before turning WNW from west to east behind the system’s cold front through the afternoon and into the overnight hours. Along with the development of strong to severe storms, these winds will clear smoke from NW to SE. Thus, while we will let the statewide advisory expire at noon as planned, we MAY need to extend the advisory until 6 p.m. from approximately Monroe to Eagle River and eastward as it will take longer for smoke to clear in these areas. The highest concentrations are expected further east.
-
-
+Updated Monday, July 20 - 6:10 p.m.
 Tuesday's Forecast (July 21)
 
-Breezy northwest flow behind the departing system may result in degrading air quality. At the moment, it appears we may be clipped by smoke from fires in north-central to northwest Canada, but if these impacts are observed, they should move through western portions of the state quickly and not result in advisory-level impacts. We’ll also need to keep our eye on the Minnesota/Ontario fires to see how they respond to Monday’s system. Ideally, we’ll observe plentiful rainfall over the area, because as the system departs, conditions will then turn hot, dry, and windy on Tuesday, which are ideal conditions for fire growth. We’ll forecast statewide Moderate (Yellow) AQI PM2.5 for now, but we could see anything from Good (Green) to advisory-level (USG+) AQI PM2.5 depending on the fire behavior.
+Breezy northwest flow will lead to slightly below normal temperatures and much less humid conditions. Moderate (Yellow) AQI PM2.5 is likely to stick around statewide through the a.m. hours because of smoke from wildfires in Saskatchewan and Manitoba. Throughout the p.m. hours, we should see a trend towards Good (Green) AQI PM2.5 from north to south as a secondary front rolls through. The highest PM2.5 concentrations could be close to the Unhealthy for Sensitive Groups (Orange) AQI threshold and will be located in western Wisconsin.
 
-Wednesday’s Forecast Trend (July 22)
 
-Air quality is expected to retain Tuesday’s trend; improving if Minnesota/Ontario fires are less active, but degrading if these fires become active behind the system.
+Wednesday's Forecast (July 22)
+
+High pressure will move over the state allowing seasonably cool temperatures and low humidity to continue. Winds will be out of the north to start the day, so we’ll monitor how fire activity in Minnesota/Ontario evolves on Monday and Tuesday. For now, we’ll continue the statewide Moderate (Yellow) AQI PM2.5 forecast, but statewide Good (Green) AQI is a possibility.
+
+Thursday’s Forecast Trend (July 23)
+
+Air quality is expected to degrade across northern Wisconsin due to wildfire smoke.
