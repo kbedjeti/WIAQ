@@ -1,8 +1,8 @@
 # WI Air Quality Forecast Watcher
 
-Polls the Wisconsin DNR air quality forecast page
-(https://airquality.wi.gov/home/text/324) hourly during the day and emails
-you the full narrative forecast whenever it changes.
+Checks the Wisconsin DNR air quality forecast page
+(https://airquality.wi.gov/home/text/324) and emails
+you the full narrative forecast when it changes.
 
 ## Repo layout
 
