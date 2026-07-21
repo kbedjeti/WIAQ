@@ -4,7 +4,7 @@ on:
   schedule:
     # Hourly at :07, 6am-11pm Central (CDT = UTC-5, so UTC hours 11-23 and 0-4).
     # In winter (CST = UTC-6) this shifts an hour later; adjust if you care.
-    - cron: "7 0-4,11-23 * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
