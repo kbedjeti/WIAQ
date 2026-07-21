@@ -13,14 +13,21 @@ forecast_url <- "https://airquality.wi.gov/home/text/324"
 state_file   <- "last_forecast.txt"
 
 # ---- Fetch ------------------------------------------------------------------
+# Cache-bust: the page sits behind a caching layer, so a plain GET can return
+# a stale copy and make a real update look like "no change". A unique query
+# param + no-cache headers force a fresh response each run.
 
 resp <- tryCatch(
   request(forecast_url) |>
+    req_url_query(`_` = as.integer(Sys.time())) |>
+    req_headers(
+      `Cache-Control` = "no-cache",
+      `Pragma`        = "no-cache"
+    ) |>
     req_user_agent("aqi-forecast-watcher (personal use; R/httr2)") |>
     req_timeout(30) |>
     req_perform(),
   error = function(e) {
-    # Transient network failures shouldn't turn the run red; just skip.
     message("Fetch failed, skipping this run: ", conditionMessage(e))
     quit(status = 0)
   }
@@ -50,6 +57,7 @@ if (nchar(section) < 40) {
 }
 
 updated_line <- trimws(lines[start_idx])
+message("Fetched forecast stamp: ", updated_line)   # visible freshness check in logs
 
 # ---- Compare with last-seen state ------------------------------------------
 
@@ -64,10 +72,9 @@ if (identical(trimws(previous), section)) {
   quit(status = 0)
 }
 
-message("Forecast changed — sending email.")
+message("Forecast changed -- sending email.")
 
 # ---- Send email -------------------------------------------------------------
-# Wrap the narrative in <pre>-style markdown so line breaks survive.
 
 email <- compose_email(
   body = md(paste0(
@@ -92,8 +99,6 @@ smtp_send(
     use_ssl     = TRUE
   )
 )
-# If smtp_send() errors, the script (and the Actions run) fails visibly,
-# which is what you want -- silent email failures would defeat the purpose.
 
 # ---- Persist state ----------------------------------------------------------
 
