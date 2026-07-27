@@ -1,13 +1,13 @@
-Updated Sunday, July 26 - 5:20 p.m.
-Monday's Forecast (July 27)
-
-Strong to severe storms will likely move through the state from NW to SE Sunday night into Monday morning. In areas where storms bring heavy rains and active winds, Good (Green) AQI could develop. However, we’ll continue the statewide Moderate (Yellow) PM2.5 forecast as light smoke from wildfires in Oregon north to British Columbia is still impacting the region. There will be a nonzero chance to reach Unhealthy for Sensitive Groups (Orange) AQI ozone along the southeast lakeshore, but the storms moving through should significantly limit this chance.
-
-
+Updated Monday, July 27 - 4:35 p.m.
 Tuesday's Forecast (July 28)
 
-Cleaner air is expected to work its way into northeastern areas, with Good (Green) AQI likely to develop there. Lingering smoke will lead to a Moderate (Yellow) AQI PM2.5 forecast for the remainder of the state.
+Northerly flow will bring in less humid conditions, although temperatures will remain at to slightly above normal. Lingering wildfire smoke impacts could result in Moderate (Yellow) AQI PM2.5 for western and southern Wisconsin. Otherwise, Good (Green) AQI is forecast.
 
-Wednesday’s Forecast Trend (July 29)
 
-Air quality is expected to remain satisfactory.
+Wednesday's Forecast (July 29)
+
+High pressure over the Great Lakes region will lead to light and variable winds, mostly sunny skies, and seasonably warm temperatures. A mix of Good (Green) to Moderate (Yellow) AQI is forecast. If dew points remain low enough, Moderate (Yellow) AQI ozone will be possible downwind of the Twin Cities. If vertical mixing is robust enough to tap into smoke aloft, Moderate (Yellow) AQI PM2.5 will be possible across the western half of the state.
+
+Thursday’s Forecast Trend (July 30)
+
+Air quality is expected to degrade, potentially reaching ozone advisory criteria within the Lake Michigan lake breeze.
