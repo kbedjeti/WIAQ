@@ -1,13 +1,13 @@
-Updated Sunday, August 2 - 10:20 p.m.
-Monday's Forecast (August 3)
-
-High pressure will be the primary meteorological driver, with gentle southerly flow, mostly clear skies, and high temperatures in the low to mid 80s. Dewpoints in the upper 50s to low 60s will help keep ozone mostly in the Good (Green) AQI category, with pockets of Moderate (Yellow) AQI possible. A mix of Good and Moderate AQI is also anticipated for PM2.5 due to minor smoke present within the high pressure air mass.
-
-
+Updated Monday, August 3 - 4:35 p.m.
 Tuesday's Forecast (August 4)
 
-An approaching trough and associated cold front will shift winds to southerly Monday night into Tuesday. High temperatures will again reach the mid 80s, while northwestern Wisconsin will remain a bit cooler as the cold front moves through earlier in the day. Some precipitation along the front will be possible. Ahead of the front, conditions will become favorable for ozone production for counties to the southeast and along the lakeshore. Moderate AQI is forecast for that area for now, but USG (Orange) AQI is not out of the question for counties impacted by a lake breeze. Good AQI is forecast elsewhere.
+An approaching trough and associated cold front will shift winds to southwesterly by Tuesday morning. High temperatures will reach the mid 80s across eastern Wisconsin, while counties farther west will remain a bit cooler as the cold front moves through earlier in the day. Ahead of the front, conditions will become favorable for ozone production for counties to the southeast and along the lakeshore. Moderate (Yellow) AQI is forecast for that area, but USG (Orange) AQI will be possible for counties impacted by a sustained lake breeze. Good (Green) AQI for ozone is forecast elsewhere. For PM2.5, some model guidance suggests a decent amount of wildfire smoke in the column behind the cold front from the burning across the western U.S. Although much of this smoke is expected to remain aloft, the precipitation along the front may act to mix some of this smoke down to the surface. As such, a combination of Good to Moderate AQI is forecast for PM2.5.
 
-Wednesday’s Forecast Trend (August 5)
 
-Air quality is expected to improve.
+Wednesday's Forecast (August 5)
+
+Precipitation is expected to persist along the Wisconsin/Illinois border as the cold front continues to slowly move to the southeast, with westerly flow anticipated for most of the state. Ozone should fall mostly in the Good AQI range, with the highest potential for Moderate AQI confined to a small area downwind of the Twin Cities. A mix of Good and Moderate AQI for PM2.5 is forecast to continue, with the highest chances for Moderate AQI near the frontal boundary across southern Wisconsin.
+
+Thursday’s Forecast Trend (August 6)
+
+Air quality is expected to remain sufficient.
