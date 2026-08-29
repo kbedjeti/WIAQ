@@ -1,13 +1,13 @@
-Updated Thursday, August 27 - 4:25 p.m.
-Friday's Forecast (August 28)
-
-Flow will transition from northwesterly to calm as high pressure becomes a more dominant driver across the region on Friday. Lingering wildfire smoke present at the surface will persist as conditions become stagnant. Good (Green) to Moderate (Yellow) AQI for PM2.5 is forecast, with Moderate AQI most likely for central and southwestern Wisconsin. Elevated ozone concentrations are anticipated along the lakeshore once a lake breeze circulation develops in the afternoon, where the highest concentrations are currently expected for the southern half of the lakeshore. Despite some guidance suggesting a few hours of Unhealthy for Sensitive Groups (Orange) NowCast AQI, Moderate AQI for ozone is forecast along the lakeshore, as peak ozone concentrations may be inhibited by higher dewpoints over Lake Michigan.
-
-
+Updated Friday, August 28 - 4:45 p.m.
 Saturday's Forecast (August 29)
 
-Recirculation of residual wildfire smoke is expected on Saturday as synoptic flow become southerly and wind speeds increase. Good to Moderate AQI for PM2.5 is forecast to continue, with Moderate AQI likely for central and southern Wisconsin. Elevated ozone will again be possible along the lakeshore if a lake breeze circulation develops in the afternoon. There is uncertainty in both peak ozone concentrations and whether the lake breeze front will be able to effectively move onshore given the increased wind speeds. Moderate AQI for ozone is forecast to continue for the lakeshore with Good AQI forecast elsewhere. One or more hours of Unhealthy for Sensitive Groups NowCast AQI cannot be ruled out.
+Recirculation of residual wildfire smoke is expected on Saturday as synoptic flow becomes southerly and wind speeds increase. A round of showers is expected to move west to east across Wisconsin throughout the day, bringing cloud cover and limiting high temperatures to the mid 70s. Good (Green) to Moderate (Yellow) AQI for PM2.5 is forecast, with Moderate AQI most likely for central and southern Wisconsin. Ozone is forecast to remain in the Good AQI range.
 
-Sunday’s Forecast Trend (August 30)
 
-Air quality is expected to remain mostly adequate, with additional impacts possible along the lakeshore.
+Sunday's Forecast (August 30)
+
+Flow will remain southerly behind the exiting precipitation on Sunday, pushing high temperatures into the 80s and allowing the recirculation of lingering wildfire smoke to continue. PM2.5 is forecast to remain in the Good to Moderate AQI range, with statewide potential for Moderate AQI. Hotter temperatures and stronger southerly flow will encourage increased ozone production over Lake Michigan. However, trailing precipitation in the morning, cloud cover, and dewpoints in the 60s should also help mitigate ozone production. Moderate AQI for ozone is forecast along the lakeshore, with Good AQI anticipated elsewhere.
+
+Monday’s Forecast Trend (August 31)
+
+Air quality is expected to remain satisfactory.
